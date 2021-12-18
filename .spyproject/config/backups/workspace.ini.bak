@@ -4,7 +4,7 @@ save_data_on_exit = True
 save_history = True
 save_non_project_files = False
 project_type = 'empty-project-type'
-recent_files = ['Template\\pages\\about.html', 'Template\\pages\\contact.html', 'Template\\pages\\services.html', 'Template\\pages\\home.html', 'Template\\base.html', 'Template\\includes\\navbar.html', 'Template\\includes\\footer.html']
+recent_files = ['pages\\models.py', 'pages\\admin.py', 'carzone\\settings.py', 'pages\\views.py', 'Template\\pages\\home.html', 'static\\index.html']
 
 [main]
 version = 0.2.0
